@@ -1,6 +1,8 @@
 # Partover.test
 The partially overlapping samples t-test Use Partover.test (Partiallyoverlapping) With (In) R Software
 
+https://www.youtube.com/watch?v=A4xXGw-sDX8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
